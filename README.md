@@ -1,4 +1,4 @@
-This page was created based on the assignment https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7.
+This pages were created based on the assignment https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7.
 
 The designs were created to the following widths:
 

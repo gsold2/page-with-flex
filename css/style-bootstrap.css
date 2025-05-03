@@ -1,0 +1,59 @@
+* {
+	font-family: 'Barlow Semi Condensed';
+}
+
+body {
+	font-size: 13px;
+}
+
+#item-1	{
+	background: #7541c8;
+	color: #ffffff;
+}
+
+#item-2	{
+	background:	#48556a;
+	color: #ffffff;
+}
+
+#item-3, #item-5	{
+	background:	#ffffff;
+	color: #48556a;
+}
+
+#item-4	{
+	background:	#121212;
+	color: #ffffff;
+}
+
+.card  {
+	box-shadow: 33px 35px 19px 4px rgba(34, 60, 80, 0.13);
+}
+
+h5 {
+	margin-bottom: 25px;
+	margin-top: 25px;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.person {
+	display: flex;
+	align-items: center;
+}
+
+img {
+	border-radius: 50%;
+	height: 30px;
+	width: auto;
+}
+
+.name-graduate{
+	margin-left: 15px;
+}
+
+.name {
+	font-weight: bold;
+}
